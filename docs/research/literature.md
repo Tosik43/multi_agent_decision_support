@@ -34,3 +34,30 @@ https://arxiv.org/abs/2312.10997
 Работа посвящена автоматизированной оценке RAG-систем. Рассматриваем при проектировании проверки релевантности извлечённых фрагментов, обоснованности ответов и качества генерации. При этом показатели качества RAG не заменяют оценку пригодности управленческой рекомендации.
 
 https://aclanthology.org/2024.naacl-long.20
+
+
+**LIT-005**
+
+*Greco S., Słowiński R., Wallenius J. (2025). Fifty years of multiple criteria decision analysis: From classical methods to robust ordinal regression. European Journal of Operational Research, 323(2), 351–377. DOI: 10.1016/j.ejor.2024.07.038.*
+
+Обзор методов многокритериального анализа, выявления предпочтений и формирования рекомендаций. 
+
+https://doi.org/10.1016/j.ejor.2024.07.038
+
+
+**LIT-006**
+
+*Huang H., Heuninckx S., Macharis C. (2024). 20 years review of the multi actor multi criteria analysis (MAMCA) framework: a proposition of a systematic guideline. Annals of Operations Research. DOI: 10.1007/s10479-024-06357-y.*
+
+Представляет методологический подход к оценке альтернатив с учётом критериев и предпочтений заинтересованных сторон. 
+
+https://doi.org/10.1007/s10479-024-06357-y
+
+
+**LIT-007**
+
+*HM Treasury & Department for Energy Security and Net Zero (2024). Use of Multi-Criteria Decision Analysis in options appraisal of economic cases.*
+ 
+Методическое руководство. Рассматривает применение многокритериального анализа при оценке вариантов решений и типичные методологические ошибки. 
+
+https://www.gov.uk/government/publications/green-book-supplementary-guidance-use-of-multi-criteria-decision-analysis
