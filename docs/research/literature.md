@@ -61,3 +61,21 @@ https://doi.org/10.1007/s10479-024-06357-y
 Методическое руководство. Рассматривает применение многокритериального анализа при оценке вариантов решений и типичные методологические ошибки. 
 
 https://www.gov.uk/government/publications/green-book-supplementary-guidance-use-of-multi-criteria-decision-analysis
+
+
+**LIT-008**
+
+*van der Aalst W. M. P., ter Hofstede A. H. M., Kiepuszewski B., Barros A. P. (2003). Workflow Patterns. Distributed and Parallel Databases, 14, 5–51.*
+
+Исследование типовых конструкций управления последовательным и параллельным выполнением работ. 
+
+https://pure.tue.nl/ws/files/2053121/613310.pdf
+
+
+**LIT-008**
+
+*Object Management Group. (2014). Business Process Model and Notation (BPMN), Version 2.0.2.*
+
+Нормативное описание элементов процессов, событий, шлюзов и потоков управления
+
+https://www.omg.org/spec/BPMN/2.0.2
